@@ -1,2 +1,2 @@
 # Harrisonburg-307
-A HTML/CSS starter website
+Harrisonburg also known as the friendly city is home th the JMU Dukes. 
